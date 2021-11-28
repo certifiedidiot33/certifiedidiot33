@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @certifiedidiot33
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning c++
