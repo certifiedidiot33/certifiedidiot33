@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @certifiedidiot33
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning c++
--  I am a game developer + api developer for roblox also a modder for beat saber
+-  I am a game developer + software developer (backend)
 -  i know mainly lua, html, css, python, learning c++ and java and c#
