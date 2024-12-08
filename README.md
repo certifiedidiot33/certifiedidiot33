@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @certifiedidiot33
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning c++
--  I am a game developer + software developer (backend)
--  i know mainly lua, html, css, python, learning c++ and java and c#
+- 👀 I’m interested in computer science & game development
+- 🌱 I’m currently learning c#
+-  I am a game developer
+-  i know mainly lua, html, css and learning c#
